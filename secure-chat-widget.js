@@ -198,7 +198,7 @@
             </div>
         `;
 
-        const webhookUrl = 'SUA_URL_DO_WEBHOOK_N8N/chat';
+        const webhookUrl = 'https://paretogroup.app.n8n.cloud/webhook/chat';
 
         function setupEventListeners() {
             const container = document.getElementById('chat-widget-container');
